@@ -6,6 +6,6 @@ printf("Hello, I'm Srushti");
 printf("Hello, I'm Namratha");
 printf("Hello, I'm sumit");
 printf("Hello, I'm Christy");
-
+printf("hello, I'm satyasindhu");
 return 0;
 }
