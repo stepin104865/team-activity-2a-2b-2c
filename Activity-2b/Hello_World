@@ -8,6 +8,5 @@ printf("Hello, I'm sumit");
 printf("Hello, I'm Christy");
 printf("Hello, I'm Dhyan");
  
- 
-return 0;
+ return 0;
 }
