@@ -1,5 +1,7 @@
 #include<stdio.h>
 int main()
 {
-printf("Hello, I'm Harshitha);
+printf("Hello, I'm Harshitha");
+printf("Hello, I'm Srushti");
+return 0;
 }
