@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main()
+{
+    
+printf("Hello, I'm Harshitha");
+printf("Hello, I'm Srushti");
+printf("Hello, I'm Namratha");
+printf("Hello, I'm sumit");
+printf("Hello, I'm Christy");
+printf("Hello, I'm Dhyan");
+printf("hello,I'm satyasindhu");
+printf("Hello,I'm Rishita");
+ 
+return 0;
+}
