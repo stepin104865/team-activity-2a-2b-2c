@@ -5,5 +5,6 @@ printf("Hello, I'm Harshitha");
 printf("Hello, I'm Srushti");
 printf("Hello, I'm Namratha");
 printf("Hello, I'm Rishita");
+printf("Hello, I'm Lakshitha");
 return 0;
 }
